@@ -3,10 +3,10 @@ import subprocess
 import os
 import sys
 import ctypes
-import platform # Added to potentially check OS if needed later, though focusing on Windows
+import platform 
 
 # --- Constants ---
-UPDATE_VERSION_URL = "https://gist.githubusercontent.com/Chill-Astro/e8c32d9a2b30780e3b6fd2819a51b330/raw/PyC_V.txt"
+UPDATE_VERSION_URL = "https://gist.githubusercontent.com/Chill-Astro/7e0d5246d48b0684ac303df756586c38/raw/MCIT_V.txt"
 CURRENT_VERSION = "1.0" # First Release
 
 # --- UAC Check and Re-launch Functions ---
