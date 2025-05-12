@@ -30,7 +30,7 @@ MsixCertImportTool is a SimpleCommand App designed to import .cer files to the `
 
 ## Preview :
 
-![image](https://github.com/user-attachments/assets/371a43e8-d2fb-43c4-a8b7-0502b5e0ada9)
+![image](https://github.com/user-attachments/assets/7ff05b36-bba7-42fc-adbf-65146669f4a6)
 
 ---
 
