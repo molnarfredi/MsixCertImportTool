@@ -13,7 +13,7 @@ MsixCertImportTool is a SimpleCommand App designed to import .cer files to the `
 
 ---
 
-## Installing MsixCertTool from Winget [ Coming Soon ]:
+## Installing MsixCertTool from Winget [ Coming Soon ] :
 
     winget install MsixCertTool
 
