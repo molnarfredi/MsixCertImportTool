@@ -24,7 +24,7 @@ MsixCertImportTool is a SimpleCommand App designed to import .cer files to the `
 
 - Any system with Python installed.
 - Requires Requests package to be installed via pip.
-- No Python installation needed if using Installer or `PyCalc-SE.exe` on Windows Systems!
+- No Python installation needed if using Installer or `MsixCertImportTool.exe` on Windows Systems!
 
 ---
 
